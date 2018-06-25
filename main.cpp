@@ -10,7 +10,7 @@ int main()
     int _b;
     int _wyb;
 
-
+    // komentarz testowy
 
     cout << " ---MENU--- \n------------\nWybierz dzialanie:\n";
     cout << "1. Dodawanie\n";
